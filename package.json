@@ -1,0 +1,16 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "To run this repository, you need to have [node.js](https://nodejs.org/en/) installed.",
+  "main": "index.js",
+  "scripts": {
+     "test": "mocha index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "request": "^2.88.2"
+  }
+}
